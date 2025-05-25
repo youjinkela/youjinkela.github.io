@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鸭蛋的博客</title><link>https://youjinkela.github.io</link><description>随便学学东西，顺便写写记录</description><copyright>鸭蛋的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/121172821?v=4</url><title>avatar</title><link>https://youjinkela.github.io</link></image><lastBuildDate>Sun, 25 May 2025 14:28:23 +0000</lastBuildDate><managingEditor>鸭蛋的博客</managingEditor><ttl>60</ttl><webMaster>鸭蛋的博客</webMaster><item><title>Bloom分类学相关</title><link>https://youjinkela.github.io/post/Bloom-fen-lei-xue-xiang-guan.html</link><description>Bloom分类阶段
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鸭蛋的博客</title><link>https://youjinkela.github.io</link><description>随便学学东西，顺便写写记录</description><copyright>鸭蛋的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/121172821?v=4</url><title>avatar</title><link>https://youjinkela.github.io</link></image><lastBuildDate>Sun, 25 May 2025 14:31:12 +0000</lastBuildDate><managingEditor>鸭蛋的博客</managingEditor><ttl>60</ttl><webMaster>鸭蛋的博客</webMaster><item><title>Bloom分类学相关</title><link>https://youjinkela.github.io/post/Bloom-fen-lei-xue-xiang-guan.html</link><description>Bloom分类阶段
 * 记忆：记住和回忆阶段
 * 理解：口述 举例 分类 尝试推断
 * 应用：试着解决问题
@@ -11,4 +11,4 @@
 提高学生在任何领域的问题解决能力的最佳方式，就是让他们在该领域获得更多基础技能
 
 贪心策略:
-* 1. 尽可能快地汲取该领域内你所追求的方向上所有的案例和解决问题的经验，用以扩充你的知识库。</description><guid isPermaLink="true">https://youjinkela.github.io/post/Bloom-fen-lei-xue-xiang-guan.html</guid><pubDate>Sun, 25 May 2025 14:27:58 +0000</pubDate></item><item><title>测试文本1</title><link>https://youjinkela.github.io/post/ce-shi-wen-ben-1.html</link><guid isPermaLink="true">https://youjinkela.github.io/post/ce-shi-wen-ben-1.html</guid><pubDate>Sun, 25 May 2025 13:41:45 +0000</pubDate></item></channel></rss>
+* 1. 尽可能快地汲取该领域内你所追求的方向上所有的案例和解决问题的经验，用以扩充你的知识库。</description><guid isPermaLink="true">https://youjinkela.github.io/post/Bloom-fen-lei-xue-xiang-guan.html</guid><pubDate>Sun, 25 May 2025 14:27:58 +0000</pubDate></item></channel></rss>
